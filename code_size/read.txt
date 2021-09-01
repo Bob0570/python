@@ -1,0 +1,6 @@
+--cs_statics.py: for one elf file
+
+--cs_statics2.py: for two elf file and compare result
+   modify run_step
+
+IF(iserror(MATCH(D2,'statics'!D:D,0)),0,INDEX('statics'!B:B,MATCH(D2,'statics'!D:D,0),1))

@@ -1,0 +1,7 @@
+STEP1：点击百度AI开放平台导航右侧的控制台，选择需要使用的AI服务项。若为未登录状态，将跳转至登录界面，请您使用百度账号登录。如还未持有百度账户，可以点击此处注册百度账户。
+https://ai.baidu.com/ai-doc/REFERENCE/Ck3dwjgn3
+https://ai.baidu.com/ai-doc/SPEECH/tk4o0bm3v
+
+应用名称        AppID       API Key                     Secret Key                          包名
+比分播报        23672653    et1xX06PhOjeokuUoPQSjV3Y    mA2DsAAaqdIrxzGDB1hHoWLnCKpcb7bi    语音技术
+
